@@ -1,0 +1,39 @@
+*{font-family: "Times New Roman";margin: 0;color: black;}
+
+* {
+    border: 1px dashed red;
+    min-height: 10px;
+}
+/**,
+*:before,
+*:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;}*/
+
+body{background-color: gainsboro;display: flex;flex-direction: column; margin:0; padding:0; border:none;}
+
+.Principal1 {background-color: white;width: 100%;height: 25%;margin:auto; padding:0;}
+
+.Principal2 {width: 100%;height: 75%;}
+
+.P1Head {margin-left: 500px;}
+
+.Replicar1{background-color: white;display: flex;width: 600px;height: 500px;flex-direction: column;margin-left: 500px;margin-top: 80px;}
+
+.header{width: 600px;height: 50px;margin:0;display: flex;border: none;border-bottom: 0.5px solid gainsboro;}
+
+.Headh2{width: 550px;padding: 5px;margin: 0;}
+.Pag1{width: 50px;color:grey;margin: 0;padding: 10px;}
+
+img{width: 600px;height: 400px;margin: 0;background-size: cover;}
+
+.down{background-color: white; margin: 0;width: 600px;height: 50px;}
+
+p{margin-top: 5px;}
+
+.Replicar2{background-color: white;display: flex;width: 600px;height: 500px;flex-direction: column;margin-left: 500px;margin-top: 80px;}
+
+.Replicar3{background-color: white;display: flex;width: 600px;height: 500px;flex-direction: column;margin-left: 500px;margin-top: 80px;}
+
+.Replicar4{background-color: white;display: flex;width: 600px;height: 500px;flex-direction: column;margin-left: 500px;margin-top: 80px;}
